@@ -10,10 +10,10 @@ After these steps, just run maven: mvn clean install and deploy the application.
 tested it with Tomcat 8.
 
 Things in my TODO list:
-Fix and finish the tests.
-Add log configuration.
-Add security.
-Add a simple form.
+* Fix and finish the tests.
+* Add log configuration.
+* Add security.
+* Add a simple form.
 
 This project has been heavily based upon this tutorial:
 http://www.uv.es/grimo/teaching/SpringMVCv3PasoAPaso/part1.html
