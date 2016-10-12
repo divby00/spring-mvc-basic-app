@@ -6,7 +6,7 @@ typical MVC application. Its purpose is to be used as a base for new projects.
 To use it run the SQL scripts in your database, the scripts provided run in postgresql, adapt them
 to suit your needs. You have to setup the database connection in the file jdbc.properties.
 
-After these steps, just run maven: mvn -DskipTests clean install and deploy the application. I've
+After these steps, just run maven: mvn clean install and deploy the application. I've
 tested it with Tomcat 8.
 
 Things in my TODO list:
