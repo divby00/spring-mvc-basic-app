@@ -1,0 +1,28 @@
+.app-page {
+    background-color: #fcfcfc;
+    border-bottom: solid 1px black;
+    padding: 20px;
+}
+
+.error-page {
+    background-color: #fcaaaa;
+    border-bottom: solid 1px red;
+    padding: 20px;
+}
+
+.error-row {
+    margin-left: 50px;
+}
+
+.avatar {
+    border-radius: 5px;
+    border: solid 1px #3c3c3c;
+}
+
+.heart {
+    color: deeppink;
+}
+
+.alert {
+    color: orangered;
+}
