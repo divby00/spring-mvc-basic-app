@@ -15,5 +15,5 @@ Add log configuration.
 Add security.
 Add a simple form.
 
-This project has been heavily based upon this tutorial in internet:
+This project has been heavily based upon this tutorial:
 http://www.uv.es/grimo/teaching/SpringMVCv3PasoAPaso/part1.html
